@@ -1,0 +1,14 @@
+{
+  "name": "naknakdesign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cp": "shx rm -rf html/ && shx cp -R ../naknak/packages/naknak-web/html/ html/"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "shx": "^0.3.3"
+  }
+}
