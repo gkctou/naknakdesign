@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "cp": "shx rm -rf html/ && shx cp -R ../naknak/packages/naknak-web/html/ html/"
+    "cp": "shx cp -R ../naknak/packages/naknak-web/html/. ./"
   },
   "author": "",
   "license": "ISC",
